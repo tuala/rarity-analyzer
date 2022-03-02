@@ -1,0 +1,7202 @@
+[
+  {
+    "name": "T-Squirrel NFT #1",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmRh9btwJRka9jia3jDAPpPnpyeSeJa1ugt4xm89znvNtt?filename=1.png",
+    "dna": "5da36f152ec60e9b7e1fbb9d64acc0bc4ac7221a",
+    "edition": 1,
+    "id": 0,
+    "date": 1644936006204,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "gold_stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "greystraight"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "surprised"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bent_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_flag_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #2",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmNYd7DUWcStQKeqDw4e61ZgBXQUfmjbRkoFroiTkkaDVp?filename=2.png",
+    "dna": "f4eae16cc2519dc66a342a46902fe52e59803ac4",
+    "edition": 2,
+    "id": 1,
+    "date": 1644936007836,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_d"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed_simple"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grin_sm"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_fem_warrior"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "shogunfan_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #3",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmSUhVvVuifV44HmwDM4sYYj21joZ2WpWQrxqHNV6Fer7D?filename=3.png",
+    "dna": "f8c90a7006c59fafbd9626408569ab7ed96332ad",
+    "edition": 3,
+    "id": 2,
+    "date": 1644936009237,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_long_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_leather"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "woman_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "large_beavertooth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_hat_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_naginatab_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #4",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmaQnjFD3Y3pzux7kDxz2wdkqTct9raMiRHDaFe6deS4Lw?filename=4.png",
+    "dna": "6dd71e897fdc3c732cae52a0b14bee38afe67e17",
+    "edition": 4,
+    "id": 3,
+    "date": 1644936010617,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curveb_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "geisha_og"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "sadopen"
+      },
+      {
+        "trait_type": "Head",
+        "value": "sad_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_naginata_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #5",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmYDNgnzzJNZdR6mBbaxumitVbRsYRKpFLXv3CNBk2va51?filename=5.png",
+    "dna": "0ac16f279082fdfa229971336352e764d3347b4f",
+    "edition": 5,
+    "id": 4,
+    "date": 1644936012342,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_red"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_d"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "attentive_female"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grumpy_beard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "snail_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_naginata_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #6",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/Qmc1DP1z8VGfJBUNuZKgnXHKaTf3x2KYPtcE4Cwc3vaqBJ?filename=6.png",
+    "dna": "aa1a8e9710579af206916ac4e5c6a2d943958a09",
+    "edition": 6,
+    "id": 5,
+    "date": 1644936013657,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_d"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "snail_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_lord_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #7",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmPEHSHep7qrE4JnJQuasb5aJKcaruumJTNUaWiS6Lfzge?filename=7.png",
+    "dna": "a2fa65cfbd64d35ccc84965744ae5a187983f4c7",
+    "edition": 7,
+    "id": 6,
+    "date": 1644936015090,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stripes"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_d"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "soft_smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #8",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmVNPDPTdCMLfkRDzru6jSvTHwj1UfSuzwER6FxvB7wFvD?filename=8.png",
+    "dna": "50becae9ced4ea00f4c99efcc113bed15926d323",
+    "edition": 8,
+    "id": 7,
+    "date": 1644936016592,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_blue"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curveb_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_lord"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "warrior"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "satisfied_vampire"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_woman_bk"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #9",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmTHiVyKDueMgvsNrqPkZt9T7zPAanvNeqq8UYjtrgronr?filename=9.png",
+    "dna": "cb00d5ba1e0034f4db8a9b7e963b048c88b42697",
+    "edition": 9,
+    "id": 8,
+    "date": 1644936017802,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_gd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "v"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bat_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_armor_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #10",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmYgKj7UqZxVgaXDbRvbuirqz1PqnMnrZjCHn1mF4Sx1Yq?filename=10.png",
+    "dna": "e5ed7bf128dc0f956b187e50c3ec6e3d6a2a7e50",
+    "edition": 10,
+    "id": 9,
+    "date": 1644936019296,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_blue"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "gold_arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_leather"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "sweet_marbles"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grin_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_hat_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "katana_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #11",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmSBPwjbsMiaySYmCEHfMe4oJVWupgErGZvvH5ksp1D5sb?filename=11.png",
+    "dna": "9b7bc7ebddabe5d9e0c71f34954184cf12c27254",
+    "edition": 11,
+    "id": 10,
+    "date": 1644936020761,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "legendary_gold"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "whitestraight"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_shogun_formal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "warrior"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "sadopen"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_hat_b_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflec_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #12",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmP6SaToEH4CJQMNtBsthYLMraYyhkor1CfwX9ZxYJctWp?filename=12.png",
+    "dna": "b1bab2b18aff3a5fdc29fe3595c9c1b0f8e3d860",
+    "edition": 12,
+    "id": 11,
+    "date": 1644936022292,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_c"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_bg"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "pharao"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #13",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmdyyYxBc7jiuTUgJC1v8dsFoUJ4MABXFgjPtrGGfLA7vD?filename=13.png",
+    "dna": "f091e5b11da50fc93339a3856ce1001a81fbe3e8",
+    "edition": 13,
+    "id": 12,
+    "date": 1644936023829,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "snow"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_wh"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_white"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_gd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "mandel"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "satisfied"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_hat_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_armor_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #14",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmSsZGq11nrVA8nSZfzku6yiFVbfuTuydU3Wkk15Sduc6P?filename=14.png",
+    "dna": "6a6dce58bb9c312bcf9dbb3dd30e1a855557cd2a",
+    "edition": 14,
+    "id": 13,
+    "date": 1644936025330,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed_gy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_female_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_infantry_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #15",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmTbMS6VrbZqjAuhBUPY4NkxQzxyk9YpckbndDhGURP8xH?filename=15.png",
+    "dna": "a0305dc017f146f9efb78f8ca385d818cb65180e",
+    "edition": 15,
+    "id": 14,
+    "date": 1644936026829,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_rifleman_b"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_rifleb_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #16",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmZyoHdHEkef7GwoAQhof5wYCAdWT5c58ufqUr5VXHvCSS?filename=16.png",
+    "dna": "2fa5f5c6749cdb646715e43bcdef763fa727485e",
+    "edition": 16,
+    "id": 15,
+    "date": 1644936028261,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_leather"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "gold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards"
+      },
+      {
+        "trait_type": "Head",
+        "value": "samuraiairs_rd"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_armor_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #17",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmSpz7Ft6yrBGjZn1dhNs2W1H5AuNimxq74xhgUj7636Ta?filename=17.png",
+    "dna": "7581f57dae11bcd8390d08d029a7d5bca915c349",
+    "edition": 17,
+    "id": 16,
+    "date": 1644936029797,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_gd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "staring"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "v"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "omnidex_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #18",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmWicmU6BUR4t8anjjvN9ZF1Lo5wmemjmWF4sgDYaoRFta?filename=18.png",
+    "dna": "fbd5bbd8454c68f2db1e3437dea049a8dfd45fb6",
+    "edition": 18,
+    "id": 17,
+    "date": 1644936031326,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_grey"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "sweet_bn"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mega_smile_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_rifleman_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "katana_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #19",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmbDLJD2ajVtWPwW4mrdZ1d6T5G46tRdjC1K9CFLotkxn7?filename=19.png",
+    "dna": "a1bec0f04c1253fbc573e60009b3a3e6468349ae",
+    "edition": 19,
+    "id": 18,
+    "date": 1644936032780,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stripes"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "warrior"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mega_smile_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight_red"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_lord_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #20",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmSoEZzJKwStS9tAVXT2WJpqMoFwWivHYhL9SELok8XmH4?filename=20.png",
+    "dna": "dbefbfb1acee2b8de7a5c7b571ba6781ab99cb7e",
+    "edition": 20,
+    "id": 19,
+    "date": 1644936034203,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_straight_wh"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_gd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed_gold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grumpy_beard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_bridea_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_naginata_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #21",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmNqoosiSyik4STuwour61iQNvpXCL9mXiohSfv4uuTosC?filename=21.png",
+    "dna": "bcef9986698b73c2df4861c2f2c71a41ac846ecd",
+    "edition": 21,
+    "id": 20,
+    "date": 1644936035608,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "snow"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_gd"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_d"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "angry_b_ye"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "v"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_female_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_rifleb_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #22",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmQQ16kGP1VijcxXhybRKCzdaAJBJkUegwWTKm1vMVUxcc?filename=22.png",
+    "dna": "764e9013f05f7ad149e594eb232e693ddbfda422",
+    "edition": 22,
+    "id": 21,
+    "date": 1644936037210,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_b"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "samurai_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_tired"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "beavertooth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_bride_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_armor_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #23",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmaVxfCmd1e8izwcjbE4794s9KR2TGghyAAYUcB6NhHwmC?filename=23.png",
+    "dna": "eeb82376990624acbdd3af1b2abfab205fc82aff",
+    "edition": 23,
+    "id": 22,
+    "date": 1644936038565,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_rd"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_grey"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed_women"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "soft_smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight_awake_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflea_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #24",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmaAgCikKCMVAPosWp9XgGnpxeZsmMTzX2uncC8HKdpyj1?filename=24.png",
+    "dna": "dca7dc8e76c69725c2f14d31bc3645a289b2479c",
+    "edition": 24,
+    "id": 23,
+    "date": 1644936040200,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "legendary_gold"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "curved_white"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_b"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "bright_blue_women"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mega_smile_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bamboo_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_bow_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #25",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmaUG3gCear1u7PoZgzvFu6DZzVaKrJV5Sdk4oPyd7Mgt9?filename=25.png",
+    "dna": "e7b9f15f84dc0d28207d3cc858d5ab2b6dcb668f",
+    "edition": 25,
+    "id": 24,
+    "date": 1644936041717,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "unhappy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "china_hat"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflea_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #26",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmaBAn6TmLpECMLC77iHG9wRt99ZNabmZQuUZfAhAMsG32?filename=26.png",
+    "dna": "e137bb25b5544f9389516ed42b8757430075ccde",
+    "edition": 26,
+    "id": 25,
+    "date": 1644936043356,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "surprised"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_c"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_bow_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #27",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmfPHpbhzQ4McyFNEVQbxBdHB8up5vaR53bfaGvZWrcici?filename=27.png",
+    "dna": "b15a2d3aaa0d9441b1205ac34c5bbc2b924080c4",
+    "edition": 27,
+    "id": 26,
+    "date": 1644936044801,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "redstraight"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_lord"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards"
+      },
+      {
+        "trait_type": "Head",
+        "value": "sad_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "samurai_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #28",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmVmerVRALjdDpE8pus8ZDhD7Wjmn1D5gWxHsG8Re4BV4V?filename=28.png",
+    "dna": "b4a55d31db8896338332685c9c1793b55add51af",
+    "edition": 28,
+    "id": 27,
+    "date": 1644936046173,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_b"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "woman_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grass_beard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_hat_b_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "omnidex"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #29",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmeNTJsZZfKw3nhxpQURPtEgXRX9vB8S7rfWu2dArivCpw?filename=29.png",
+    "dna": "d208d6932bef47a0293b59821000cce6d97d1cd5",
+    "edition": 29,
+    "id": 28,
+    "date": 1644936047567,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_grey"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_rifle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "grim_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_rd"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_lord_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #30",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmRZcXieQ4NXxzQCLqEcZqb5r9a5jJ39r69bJn4BHjfSa7?filename=30.png",
+    "dna": "22b3150de6010b490b630b0aabcc744dd05a8e85",
+    "edition": 30,
+    "id": 29,
+    "date": 1644936049001,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "legendary_gold"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "curved_white"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_gd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "harry"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "gaule_beard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_bridea_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_infantra_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #31",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmUfS5WSNFKHJyyS1fMnGCq38rntbhp1BbtwX5VKmtBdTo?filename=31.png",
+    "dna": "9423ad7f1cf6207e8d3943cab37a9301a631f015",
+    "edition": 31,
+    "id": 30,
+    "date": 1644936050430,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stripes"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "beaver_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_b"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "staring_right"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards_c"
+      },
+      {
+        "trait_type": "Head",
+        "value": "sad"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "gold_katana_gd"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #32",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmYugNJwuGbiYU4w9iMv6JaLa9Asp72h872DchRWvQEcF8?filename=32.png",
+    "dna": "dab75baeda1b8847e59f32e41674f482a8af2d23",
+    "edition": 32,
+    "id": 31,
+    "date": 1644936051874,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "manga_b"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "eating"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_woman_bk"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_infantry_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #33",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmQGJHMeg1mJrzKuAVTw7x5DF48KoxCpBu4weumWwCDCZc?filename=33.png",
+    "dna": "bb1d8181735c7010eebe8aa0c9dbe5f191962b96",
+    "edition": 33,
+    "id": 32,
+    "date": 1644936053496,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_wh"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_simple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "bold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "satisfied_vampire"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_rifleman_b"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_wisdom_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #34",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmVCpvo1Y1eXu3aAqaDT5b9YvDd9mcbdkWv8za8nywhuJH?filename=34.png",
+    "dna": "5633dfd28976ff2c9627e9988b82380ca5a36a76",
+    "edition": 34,
+    "id": 33,
+    "date": 1644936055109,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_long_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "keiko_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "megasweet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "large_smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight_red"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflec_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #35",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmeT6mQcimHi6Q6bdW6HqLp8stbToAs7cRzdf7cyooJsch?filename=35.png",
+    "dna": "5f43e75580bbd8d3feff6371a6ec2408db881a7e",
+    "edition": 35,
+    "id": 34,
+    "date": 1644936056532,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curveb_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_b"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed_u"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mega_smile_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "chinese_hair"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_armor_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #36",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmSgWNYTaNRpXcnd5jX8FGvrmTSEgKay8NwSkJxuqf5jzm?filename=36.png",
+    "dna": "5564ced687644825fbbc0dd1be60925a5ca7d3d8",
+    "edition": 36,
+    "id": 35,
+    "date": 1644936058027,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "beaver_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_d"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grin_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight_white_b"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_lord_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #37",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmaVNQHwYptwte7A3htKeEoD4TjBA4S5HZQZ8Zsbduugxa?filename=37.png",
+    "dna": "40634cf4778ad7cfd18aabdbe19e477bc6746f6c",
+    "edition": 37,
+    "id": 36,
+    "date": 1644936059602,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_d"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_rifle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "large_beavertooth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "snail_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_lord_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #38",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmeFd396DacaVKP8MDRRyrDV3hbJDPcVm14yi6XKUrE4v9?filename=38.png",
+    "dna": "6dfdcf6a2212e35f51cc875ce028111472c5cd41",
+    "edition": 38,
+    "id": 37,
+    "date": 1644936060964,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "traight_gold"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_rifle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "mandel"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mega_smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "sad_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflea_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #39",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmfJvfiRmCC4JCFizgXCKTETtkUBvAnU4vhDKBHWEMvzsc?filename=39.png",
+    "dna": "a342e232b5e080e50298adbf634b031048cfb9ab",
+    "edition": 39,
+    "id": 38,
+    "date": 1644936062449,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_shogun"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "large_smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "samurai_b_bk"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_infantry_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #40",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmZNLAZy7GL2kvZ1aUjHYsztnJTeUxQ1dpTpqopEv1bh6H?filename=40.png",
+    "dna": "d4a81ef500cc919ff133f55bf58d387d358bf2ef",
+    "edition": 40,
+    "id": 39,
+    "date": 1644936064021,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "beaver_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "soft_smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "manga_c_bk"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "katana_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #41",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmfXR61GV6RvPnB27aHqLxTw4xHPBrdx82zkNPxKAX2cee?filename=41.png",
+    "dna": "dbef11cd696c7f997969c0749a4023eb5d1ce276",
+    "edition": 41,
+    "id": 40,
+    "date": 1644936065575,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "curved_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_b"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "neo_sunglass"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "open"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflea_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #42",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmeCa7Kh8gKJHjSVbs3csuj54FkPBE3a9AhShs9PWmcTnh?filename=42.png",
+    "dna": "9f033186fc107f20048843095e3b35fd8e1eb612",
+    "edition": 42,
+    "id": 41,
+    "date": 1644936067008,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_b"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_bg"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "megasweet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "eating"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_rifleman_b"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #43",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmYedroDQutMmR8DZGwuJs4aDXLtFrCh7sxUHGm5CaFBj1?filename=43.png",
+    "dna": "640c74dbb08463f77ccd612a5c0e450113307be7",
+    "edition": 43,
+    "id": 42,
+    "date": 1644936068587,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_bg"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "beavertooth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_flamemask"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_lord_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #44",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmbQaZ4sgMMwT2ebpW4oJMxdvBBdnLDsRyyQ6A55FAwubP?filename=44.png",
+    "dna": "7ec19e0fc28f2fe6f61004a97f976f53c5bd4418",
+    "edition": 44,
+    "id": 43,
+    "date": 1644936070097,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stripes"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curveb_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_grey"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_simple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "cat_purple"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "v"
+      },
+      {
+        "trait_type": "Head",
+        "value": "dtype_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_infantry_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #45",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmbzsjjpjNmtGcANwZoMLS19sgtbt7TDujKy5Z1HA5GYz5?filename=45.png",
+    "dna": "6f3bef87bc17493e6249f9a558c4ec5de6745ab2",
+    "edition": 45,
+    "id": 44,
+    "date": 1644936071645,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "beaver_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_armor_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "small_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "samurai_b_bk"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "right_tool"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #46",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmVRVoquFcxRw1vBvJ6mP7G8jJfVyMLm98AFeGcXF8toQp?filename=46.png",
+    "dna": "f19e96e1c847d78d85fd2b3bb0a2341bad3ed1c4",
+    "edition": 46,
+    "id": 45,
+    "date": 1644936072995,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_d"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "gaule_beard_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "mangasnail_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "fan_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #47",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmR7P1ZinfzCYksZMYsn5B7uAvj6JAoc1LjcuqUhkYt3qP?filename=47.png",
+    "dna": "7664924a1e0c3af152b54c0c73422978c28fb00e",
+    "edition": 47,
+    "id": 46,
+    "date": 1644936074411,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "curved_rd"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_d"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "sweet_marbles"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "sadopen"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight_awake_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #48",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmcH5uJVsACam6qP15vik3zazHrGCNoGmvm5MVkFHNHDTC?filename=48.png",
+    "dna": "3c1d5bc9d3c8934c179a92eb719649fe4901d956",
+    "edition": 48,
+    "id": 47,
+    "date": 1644936075930,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_simple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "megasweet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "satisfied_vampire"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bushy_straight_gy"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_naginatab_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #49",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmSKeJf6GCGiSqyxLiExN59QVPNYfJpcdwkCvSzH5fqYZw?filename=49.png",
+    "dna": "b415b2119df33baef34e73e8f428a8428e453840",
+    "edition": 49,
+    "id": 48,
+    "date": 1644936077412,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "beaver_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_lord"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed_women"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_beard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_rifleman_b"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #50",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmXHHuKFzktd8wK3nogZTz4joS4NtiuJNcCRdeRCUwwa4X?filename=50.png",
+    "dna": "402bd60fda871fec75bb0626a2b8b07c9d54e358",
+    "edition": 50,
+    "id": 49,
+    "date": 1644936078960,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "legendary_gold"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "beaver_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_rifle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "mandel"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mighty"
+      },
+      {
+        "trait_type": "Head",
+        "value": "geisha"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_bow_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #51",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmbKdLvYPjQSCTwyLcARz4ZG9vipgCY1ANPE1EAvForocU?filename=51.png",
+    "dna": "dfcf24e2424fece88c1a86b7f7f049c7e3615cb2",
+    "edition": 51,
+    "id": 50,
+    "date": 1644936080528,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_db"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_d"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "undefined"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_naginatab_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #52",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmXznQP3rLB56VYvh7Jr4cy7aQ9h6EGmVSyDsUGjW6uXsg?filename=52.png",
+    "dna": "dd77ac54f6ab19148db554bfca1902477a53740a",
+    "edition": 52,
+    "id": 51,
+    "date": 1644936081964,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_c"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_flag_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "cat_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "surprised"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_armor_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #53",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmcDcw97qZztcTbBAo5xQ2EZi79FqKGQMyu9zDfjY9eFWW?filename=53.png",
+    "dna": "59d6524ac800cfb0d2a3b6ca3cd5f99abf922b5c",
+    "edition": 53,
+    "id": 52,
+    "date": 1644936083561,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stripes"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "curved_white"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_red"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "staring"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "satisfied"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_rifleman_b"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "omnidex"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #54",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmYHZbeTVMiVAegrWVvfFQ5MDAVpHWqtnFDG3rVBe6L2dp?filename=54.png",
+    "dna": "2e096cd497213c353fd635e2ca2aefaaab078aa4",
+    "edition": 54,
+    "id": 53,
+    "date": 1644936085092,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_gd"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_b"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards_c"
+      },
+      {
+        "trait_type": "Head",
+        "value": "chinese_hair"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflec_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #55",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmRdN3cCutTz6mHB4XxvssVEQBDw1uyNBqqxFaMsbCe7bQ?filename=55.png",
+    "dna": "f868aeff38a6cbaae3b4d4082055d89fba787f0a",
+    "edition": 55,
+    "id": 54,
+    "date": 1644936086436,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_c"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_leather"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "glaces_circle"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "open"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_priest"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflec_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #56",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmR4hPtKCcNzpxzBbzBs3WPeNBY4k6abyCQ6eaM8kWwkc5?filename=56.png",
+    "dna": "0bc3bff856a2217217d17867e326606e111e3b37",
+    "edition": 56,
+    "id": 55,
+    "date": 1644936087866,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "gold_stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "curved_white"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_gd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed_gy"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grumpy_beard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "sad"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #57",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmdABCw1FMzwcNpXEvSG8Tjuu74f3NW2EpCLmAdtwsUSmW?filename=57.png",
+    "dna": "8fa6b69f5f6a6af227fc457d0b0df3bad833267a",
+    "edition": 57,
+    "id": 56,
+    "date": 1644936089317,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_long_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_b"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "bold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_beard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_hat_b_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_armor_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #58",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmWAAPZbtwmjusMoE1mJQTawPKEEPxXDSdLtXowpq6c5Zn?filename=58.png",
+    "dna": "71e84c9112c443d15c4d8420dacf360f855432a4",
+    "edition": 58,
+    "id": 57,
+    "date": 1644936090756,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_d"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_grey"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_shogun"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "sweet_marbles"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "closed"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_hat_b_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "right_tool"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #59",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmS1rBp2Hv4kAkFKrwSFfLCayxcwY98fPNjRE7LHic1J9G?filename=59.png",
+    "dna": "538b37a3a4601be73619fca749117f8641b640b9",
+    "edition": 59,
+    "id": 58,
+    "date": 1644936092264,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grin_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "upanddown"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "db_acorn_evm"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #60",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmQyjS1McHTd1LA2rMHZbAHWP31K8f3YTSS8Gp29VewFT9?filename=60.png",
+    "dna": "53e0b10fc166934b13f4ed3535987153c6fd75cb",
+    "edition": 60,
+    "id": 59,
+    "date": 1644936093777,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stripes"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_c"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_leather"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "sadopen"
+      },
+      {
+        "trait_type": "Head",
+        "value": "dtype_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflea_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #61",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/Qmf1qoZUwT4BF847sLX4KqjbQiPwRVz8WwMEdfcYUXWFnb?filename=61.png",
+    "dna": "4dc7b8838ab31a501a8122d10423449a74e2f19d",
+    "edition": 61,
+    "id": 60,
+    "date": 1644936095317,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "beaver_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "sweet_pp"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "sadopen"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflec_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #62",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/Qmf79sy1ZXS8onCnGLR72UgwmhUKhR8r7bykd5ydBKbEY8?filename=62.png",
+    "dna": "a2510131e935dc2d0c0df4e79eff2cf432da70d9",
+    "edition": 62,
+    "id": 61,
+    "date": 1644936096766,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_c"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_armor_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "dumb"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "eating"
+      },
+      {
+        "trait_type": "Head",
+        "value": "chinese_man"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_naginatab_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #63",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmYVj31eokvgRQ8mSgo3N1nHjbLLYoEJ4VHisu4JtyARsR?filename=63.png",
+    "dna": "b22e02f3bff9f1a398cba3d77bd8aeb5c5833148",
+    "edition": 63,
+    "id": 62,
+    "date": 1644936098393,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_leather"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "sweet_female"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "money"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight_gold"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_infantry_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #64",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmWQ449fXmaHV1T5kMynUipHUY8HTMBhom871vfWGEq42V?filename=64.png",
+    "dna": "e55d9b90d237b236fc72bf93ef1095cb8296a374",
+    "edition": 64,
+    "id": 63,
+    "date": 1644936100086,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "gold_arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_wh"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "money"
+      },
+      {
+        "trait_type": "Head",
+        "value": "sad_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #65",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmNaeZgWEG1Ms5PSi2uYwn5tyZ8T6hNFioSvSuLcohn92Z?filename=65.png",
+    "dna": "37d5738ab536251251d41c45cd5a365cdc6d70f5",
+    "edition": 65,
+    "id": 64,
+    "date": 1644936101591,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_leather"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "dangerous_rd"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "lipstick"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_b"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflec_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #66",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmXjeUgRF5sBdcvLhAHrEpELKokxnMgU3J61ng3UjzLMXL?filename=66.png",
+  "dna": "bf884146165abf5e47bbe265be5dd162de3aeacb",
+    "edition": 66,
+    "id": 65,
+    "date": 1644936103043,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "curved_white"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_b"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "glaces_circle"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_beard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_lord_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #67",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmTGg2Gn6yrThASD8kg1sVQffnTimy45kcDyfKSfZxdmwq?filename=67.png",
+    "dna": "f22ce4cadfc092511a14c66ec28258171d72c84d",
+    "edition": 67,
+    "id": 66,
+    "date": 1644936104617,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_d"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_grey"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "dangerous_gn"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "unhappy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_bride"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_lord_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #68",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmXsFDB2w9JfUA99LLtXgzEs6ZBgTisVAb3b36FMwxSsuY?filename=68.png",
+    "dna": "6ef38669c9d788db923b46700a94ac9cd63a8a7b",
+    "edition": 68,
+    "id": 67,
+    "date": 1644936106217,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_db"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_simple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "sad_b"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "unhappy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_b"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "omnidex"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #69",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmULyTNd58szHzYWT49sh2viF6xJj8j61CwC7Tw3VpAhn2?filename=69.png",
+    "dna": "7eaea54fe24c0a3593631cd7c65f8bd93bf6f289",
+    "edition": 69,
+    "id": 68,
+    "date": 1644936107583,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_women_b"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "upanddown"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "katana_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #70",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmZAwpEZ8uJi1UQ8CM4u7oFaLe6dpuz2Pbx5U6PS11yTxr?filename=70.png",
+    "dna": "321a4fd66e214379ca7b1e30771473179690944f",
+    "edition": 70,
+    "id": 69,
+    "date": 1644936109259,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_db"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_red"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_wild"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "closed"
+      },
+      {
+        "trait_type": "Head",
+        "value": "chinese_hair"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "geisha_og"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #71",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmU7vBxL1a5J4bweezyP2i2XbRaoUWByXj9S5Q8ZGqHRUw?filename=71.png",
+    "dna": "73683d0e93dc505f21d75dd1f71ff41386bcaf57",
+    "edition": 71,
+    "id": 70,
+    "date": 1644936110774,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "gold_stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_c"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_shogun"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "beavertooth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_female_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_lord_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #72",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmR4augGJ2dhN5DvA6zXCT9kAWjNyoNi3Jo4EHeUbyepTa?filename=72.png",
+    "dna": "642935238ef9c30dae0463a85d21fd46eb7ec772",
+    "edition": 72,
+    "id": 71,
+    "date": 1644936112384,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "gold_stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_red"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_sad"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_fem_warrior"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "right_brush_gd"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #73",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmZBCkshdFVfXkkwLh4jeoQioPV7NsjvYGrtsADpubhwg5?filename=73.png",
+    "dna": "0ed6b3de0d51b677b66e61cc8c1ad13cdf42e7f3",
+    "edition": 73,
+    "id": 72,
+    "date": 1644936113908,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "legendary_gold"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "large_smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "manga_ye"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "katana_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #74",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmYpePMu5DDXNj4h1jWvEVrhWKbbivu3Y2tUpQTedmJN1b?filename=74.png",
+    "dna": "a2e2a41585362b6e639001ef88869642301d41fc",
+    "edition": 74,
+    "id": 73,
+    "date": 1644936115265,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stripes"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "keiko_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "pharao"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "mangasnail_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_infantra_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #75",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmZ8L2vTR9z4k35Nc82Zve1AdLpSGQJX4KwaM1s3tdAr37?filename=75.png",
+    "dna": "5f6d2f37743628a1041d7543c6f658597ef4281b",
+    "edition": 75,
+    "id": 74,
+    "date": 1644936116669,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_flag_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "pharao"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "satisfied_vampire"
+      },
+      {
+        "trait_type": "Head",
+        "value": "anime_b_bu"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "geisha_og"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #76",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmNypf7mqtLtasAMgLCe8G8Pf3vNgotXmPzgrMLe8avaaV?filename=76.png",
+    "dna": "8812e31022091b63383fc04ee9c4ecea4aa17f54",
+    "edition": 76,
+    "id": 75,
+    "date": 1644936118051,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "snow"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "grim_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_beard_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight_red"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "right_beer"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #77",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmYQP6RAf3ufPDcfw6c2GZ74XJKRLUaZ4AhhpJiRcipg7p?filename=77.png",
+    "dna": "9093c3ea5449b15c7f5df694539021562c45b1ed",
+    "edition": 77,
+    "id": 76,
+    "date": 1644936119471,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "legendary_gold"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_d"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_leather"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "sweet_pp"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grin_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_hat_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "gold_katana_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #78",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmXEizB3TmSMtzPnSNgKG1QMwjVAJDJjezWuWLoaJiuGdD?filename=78.png",
+    "dna": "539132c45e60c36ee3a478642fe7f224e4c64e3a",
+    "edition": 78,
+    "id": 77,
+    "date": 1644936121002,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_simple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "lipstick"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_flag_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #79",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmPM3F6iYUBJZUmcGrnveHYUJFp3S7UiCvJBs6Byye8Ueh?filename=79.png",
+    "dna": "6bea8434d3b20bab437423b1c7008adbb5c18da3",
+    "edition": 79,
+    "id": 78,
+    "date": 1644936122456,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "legendary_gold"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_tired"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "satisfied"
+      },
+      {
+        "trait_type": "Head",
+        "value": "mangasnail_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "samurai_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #80",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmX5eUwaKBJf6kKLDmpePhZURPtxgZg8AujitEJ8wKXFcy?filename=80.png",
+    "dna": "ec047603ce90fd189b8cfb65d0ca1a7226fc062f",
+    "edition": 80,
+    "id": 79,
+    "date": 1644936123844,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "redstraight"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "crying"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "unhappy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bat_geisha_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_rifleb_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #81",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmQAfpF15HJXRLTJ4SfJoHgdDC75ASqVSqfWndrzzJ4jcd?filename=81.png",
+    "dna": "d04c00fdc0a26f3832c3712e4900a115b744b387",
+    "edition": 81,
+    "id": 80,
+    "date": 1644936125173,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_blue"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_flag_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "satisfied"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_lord_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #82",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmZFJVnouye3zp8GMLHwajWuTPUjayQFCJkxmSVjzTfzBv?filename=82.png",
+    "dna": "4ae54d719b069486e7e5223eed09810ee8ee5515",
+    "edition": 82,
+    "id": 81,
+    "date": 1644936126478,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "gold_stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_db"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_white"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_bg"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "dumb"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "reindeer_rudolph"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bent_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_armor_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #83",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/Qmd9r5xWia5Dob96kdWjYGNr3UMcYdZ4JmuGKRf3YBShJd?filename=83.png",
+    "dna": "c417e189266cd2a2c432b18b13a125ad5184f014",
+    "edition": 83,
+    "id": 82,
+    "date": 1644936127876,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "keiko_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "warrior"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_beard_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_priest"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "keiko_rd"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #84",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmNPYwTYmbRU8GmDgXUGo8gA9qvgo4Psh297GU58QP1ydP?filename=84.png",
+    "dna": "0932e831a7c37059ade1153d8f6abb75dd83c3ec",
+    "edition": 84,
+    "id": 83,
+    "date": 1644936129316,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "gold_stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_rifle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "mandel"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "pharao"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bushy_straight_gy"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #85",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmPR9refP19mSdbpnCMz8EXN8JNRDw1292x49zqTTM6B4f?filename=85.png",
+    "dna": "e269241ad8c0f6ff2ac9d18c2ab321d623949e95",
+    "edition": 85,
+    "id": 84,
+    "date": 1644936130873,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "beaver_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_bg"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mega_smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_rd"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "fan_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #86",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmTpc3yQjEEYy56AFpjHreUVzjS2j8GX15qeuXvpEefsTd?filename=86.png",
+    "dna": "304780e8fa312e01dfca4e5a8915a9ee116b99f4",
+    "edition": 86,
+    "id": 85,
+    "date": 1644936132501,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "gold_stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_b"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "staring_ye"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "closed"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_hat_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "shogunfan_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #87",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmVDzWSnKYxRRy4RPnZbxTviV9TTM9kv3rs14joTQHit8q?filename=87.png",
+    "dna": "4797b702871b72f3c698befceb67c55adb84f26a",
+    "edition": 87,
+    "id": 86,
+    "date": 1644936134180,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "megasweet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight_red"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflec_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #88",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmQzRjA8pyo6YAjhjCuuQCKbhRW5knKfBf6CF2azkDgVdi?filename=88.png",
+    "dna": "9a2a4f57c93a98a61261bfe7a96fb0d1a21fb14d",
+    "edition": 88,
+    "id": 87,
+    "date": 1644936135716,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_long_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "mandel"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "lipstick"
+      },
+      {
+        "trait_type": "Head",
+        "value": "anime_b_bu"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_flag_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #89",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmbNAnqrZ53rYZ5zSiy2A4F5d89yd7GNmRUiLFkkkf96QU?filename=89.png",
+    "dna": "4da0a871e6bb9d51a65e143d5b31f0c37d97c761",
+    "edition": 89,
+    "id": 88,
+    "date": 1644936137176,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "whitestraight"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mighty"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight_red"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "fan_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #90",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmQYnL6jgxksmdJF8qBZF97iM4PnZpwxazVSePRxVM2Ejf?filename=90.png",
+    "dna": "f26c996b3535c26a89aaf95b974965a1fe7080fd",
+    "edition": 90,
+    "id": 89,
+    "date": 1644936138687,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "snow"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_rd"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_rifle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "attentive_female"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grumpy_beard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bat_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "katana_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #91",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmdeRF3ysnuA7YE7hFRkpFiBtcczdQi1NkLnNw5hNxi8Ny?filename=91.png",
+    "dna": "44f9f81f0b286b2ebe77a448875cfcbac50b1575",
+    "edition": 91,
+    "id": 90,
+    "date": 1644936140231,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "curved_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_grey"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_d"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "neo_sunglass"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_beard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_rice"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_flag_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #92",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmQKktwFTKxEUErwjsZS9zwbYSadrs8cn1v5B3NSw9m2PM?filename=92.png",
+    "dna": "b013b583a78cbd9c4a7eb4e19811a6cb69bcf2c2",
+    "edition": 92,
+    "id": 91,
+    "date": 1644936141759,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_b"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_white"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "woman"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "closed"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_female_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #93",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmVWPD2JnQgVucWVME2nM3MGLE9gGTgGcugMRdDKLZfaW6?filename=93.png",
+    "dna": "c4b96028b48234c08cbdf8ea42c0ad999580a076",
+    "edition": 93,
+    "id": 92,
+    "date": 1644936143169,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "curved_rd"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_grey"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "keiko_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "manga_b"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grin_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight_white_b"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_rifleb_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #94",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmV2D2k9BQrNtxG3sLG8mxTyGwr9ZsG3qCL61hX4MZ2j8E?filename=94.png",
+    "dna": "34a0ba5278f30bd82f54d6f68bb20371aadc5da8",
+    "edition": 94,
+    "id": 93,
+    "date": 1644936144569,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_c"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_gd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "mandel"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "surprised"
+      },
+      {
+        "trait_type": "Head",
+        "value": "shogun_gd"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "right_beer"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #95",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmVZb5XZry4mU8VN9wGsVwqdaTDNCXhzC8ATmNHsBX6rDV?filename=95.png",
+    "dna": "0bf6f3a8532fe72e9c7647c5703582d1f4509bad",
+    "edition": 95,
+    "id": 94,
+    "date": 1644936146101,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stripes"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_bride"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "right_tool"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #96",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/Qmb2rJzxa6ydkY3UxZqkGepDTVr2ocy5CbBjTrDn4Wo2EC?filename=96.png",
+    "dna": "0f677a1dfe0b4019c48058eed270d89e38ca2361",
+    "edition": 96,
+    "id": 95,
+    "date": 1644936147456,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_c"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "staring_right"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "large_smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bushy_straight_gy"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "samurai_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #97",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmXhdzVCWvumkisHVS5yiJP8HYiTJsbyRgnuPPXR4GQvw7?filename=97.png",
+    "dna": "a9d3d86b0bd0501116efa6acd7eadb472946f262",
+    "edition": 97,
+    "id": 96,
+    "date": 1644936148904,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_stype_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_gd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "sweet_marbles"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "lipstick"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bamboo_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_armor_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #98",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmTnoiNafibVPSoNK2Q4bGfL1HSxxt3y3FYu4sydSpidfm?filename=98.png",
+    "dna": "0d239744c582b4fcdfd4f5c66532dc5ba5952acd",
+    "edition": 98,
+    "id": 97,
+    "date": 1644936150246,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "legendary_gold"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stripes"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_simple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight_awake_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_naginata_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #99",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/Qmaxe3Mv2L5175MeaYUPumzDGextkh9uKczeuZgRZLg882?filename=99.png",
+    "dna": "5c6f57f6ed3f8dda5065edd8d59f7f304ef2d102",
+    "edition": 99,
+    "id": 98,
+    "date": 1644936151676,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stripes"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_gd"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_leather"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "satisfied"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_bride_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "gold_katana_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #100",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/Qma9pDGGjkuoYD3PERZWc91EjUqGoCgJk9Ukgsj2zYDiZF?filename=100.png",
+    "dna": "bf5f62e370aa4909f2b13b40c9322574ad16b8e1",
+    "edition": 100,
+    "id": 99,
+    "date": 1644936153010,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_long_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_leather"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "mandel"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_beard_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_priest"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "right_beer"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #101",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmPamhkNLpawEfEAE9p9ZFVt5qcfSUamdNxWifRim1oWNU?filename=101.png",
+    "dna": "449340f8ab4a3b2063b24408686f89f2f1473e47",
+    "edition": 101,
+    "id": 100,
+    "date": 1644936154609,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "samurai_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "woman_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "satisfied_vampire"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_rifleman_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_infantra_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #102",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmTuoB7LpHLH8dwGvJgqtuEA8jRbxSVUWUNS4n1aEY9Ftw?filename=102.png",
+    "dna": "532f915a2c56d859931325edd13cab818bbde8b5",
+    "edition": 102,
+    "id": 101,
+    "date": 1644936156084,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "snow"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_d"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_sad"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "small_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight_white"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "samurai_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #103",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmYTHNK9jYLAmeCptaHUMgbjPeeTZ11iCBLRN61oPHwkEP?filename=103.png",
+    "dna": "c91ab89214e2ae42dd187483ca0c6166decc8c68",
+    "edition": 103,
+    "id": 102,
+    "date": 1644936157572,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "curved_white"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_rifle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "fullbeard_black"
+      },
+      {
+        "trait_type": "Head",
+        "value": "dtype_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_infantra_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #104",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmQbnErdBtQQWMjrichWXAkt6Mrba7v2EUZwdmnSDKaHgq?filename=104.png",
+    "dna": "4b1f88fa6e8a823c8069f393ae094732a407b287",
+    "edition": 104,
+    "id": 103,
+    "date": 1644936159024,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_d"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "dangerous_gn"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mighty"
+      },
+      {
+        "trait_type": "Head",
+        "value": "spoon_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_naginatab_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #105",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmXxw8ou7SQe2kHjRJ1x4HJsY5EKgvyLjkiDZdW2KHtshk?filename=105.png",
+    "dna": "544b336e93373f1de626e91505ecb95a75406baf",
+    "edition": 105,
+    "id": 104,
+    "date": 1644936160425,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "beaver_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_b"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards_c"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_female_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #106",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmP2aqzWguG5ahr7F7hZQL8ZR5zAHnWd4A1NjRzkbuEgmf?filename=106.png",
+    "dna": "74b518d32b7e6255ef97e1d3bf91b65bb47f777c",
+    "edition": 106,
+    "id": 105,
+    "date": 1644936162037,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_straight_wh"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_flag_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "cat_red"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards_c"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_rd"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_rifleb_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #107",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmUN8PCZBfs6n8ckauT2wjrp79Ybkw7nGNuRQePF6GEF7J?filename=107.png",
+    "dna": "f80ba58df1c178df82dac53c2ae1898b01ee7573",
+    "edition": 107,
+    "id": 106,
+    "date": 1644936163599,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_purple"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_prieest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed_u"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "surprised"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_hat_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_wisdom_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #108",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmcTDZZYrMSCH2jDxAYim9kJK4LqaE34DqrUZdcAi2syzB?filename=108.png",
+    "dna": "e869ce770f5747ff30afe83714590408c6681575",
+    "edition": 108,
+    "id": 107,
+    "date": 1644936164958,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_long_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "undefined"
+      },
+      {
+        "trait_type": "Head",
+        "value": "anime_b_bu"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #109",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmTYyTcb9Ub6kwYoCEm7CeKzd9xmdBcte3T3FiH1AVYEFv?filename=109.png",
+    "dna": "e3b47cffb41fae6032873e90ee6da7ebe52cf9e9",
+    "edition": 109,
+    "id": 108,
+    "date": 1644936166356,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_gy"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_red"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_b"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "warrior"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mega_smile_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "dtype_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #110",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmTx3wrvKYX1HZAeNdByhYEdbBwkjrrqR6LPuPHTY1qUtt?filename=110.png",
+    "dna": "96fd4f42020ceb87b0c8d197f09087b0fcf1fd16",
+    "edition": 110,
+    "id": 109,
+    "date": 1644936167898,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "epic_blue"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stripes"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed_u"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grass"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #111",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmYs7GSJiCYJ8VEcjdSicaZvFFeYWyxWZmVNohFyLjJod9?filename=111.png",
+    "dna": "6bad7b3c64acde6c434231c1e111078e0518b23e",
+    "edition": 111,
+    "id": 110,
+    "date": 1644936169221,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_long_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_gd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "surprised"
+      },
+      {
+        "trait_type": "Head",
+        "value": "spoon_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "right_beer"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #112",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmSqfkxffvcb8w7c9nQQdjZ1AovXAfzzCCoxxPqaE7YuDA?filename=112.png",
+    "dna": "da12cb03031d1d4fc1928a0cf70e7bcb77c20fe1",
+    "edition": 112,
+    "id": 111,
+    "date": 1644936170644,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_d"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "grim_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "vampire"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_hat_b_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "shogun_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #113",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmWUURoSGNab5T9SmuobCGS4QFq7m5ZpnCEPA7Kz8SVRGD?filename=113.png",
+    "dna": "b514f551785dab334e925ac20d3627dc25d66ab5",
+    "edition": 113,
+    "id": 112,
+    "date": 1644936171979,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_long_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_flag_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grumpy_beard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "sad"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #114",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmPXko17EdTcjh65kUn7KAPP9emooXPWLH99HWTS6JRVzV?filename=114.png",
+    "dna": "56b3e70e4dc939ce860cdedec2ead33554fe3327",
+    "edition": 114,
+    "id": 113,
+    "date": 1644936173284,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_b"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "harry"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "open"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_hat_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "fan_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #115",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmPsANcMxWDFEfS7g17tDqawpvztFUnyc8kVUmYwXgBurh?filename=115.png",
+    "dna": "f750979c5720108b7b5bff0fcf6d61ad60960322",
+    "edition": 115,
+    "id": 114,
+    "date": 1644936174785,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_white"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_bg"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grin_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bushy_straight_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "right_champagn_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #116",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmQzrTVjTJ1rssTJf8gwXT9GNGLLPh9kgnPwEmLx9pCAFp?filename=116.png",
+    "dna": "4910f0e6da0fd34d26fbb049888fd967400c6668",
+    "edition": 116,
+    "id": 115,
+    "date": 1644936176144,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_white"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "dumb"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "v"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_flamemask"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #117",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmZcFPrqVfpypYUkLyBJ2sAacaJDu7QF5ep5Wu2oUbQ14o?filename=117.png",
+    "dna": "8b062dfdb2995e008d2c04fe3e93883f3fa6da8d",
+    "edition": 117,
+    "id": 116,
+    "date": 1644936177510,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "legendary_gold"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_rifle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "bold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "small_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "china_hat"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "shogun_gn"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #118",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmTQ9j1HXUocazSe24QYwxUcV3oQQ24U3tBaTo9dJbfngh?filename=118.png",
+    "dna": "2ca08cbb99c43642a21870b9cbf241d55a980bff",
+    "edition": 118,
+    "id": 117,
+    "date": 1644936179076,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_rd"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_rifle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "v"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bat_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "samurai_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #119",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmayHtqeiA4Q8eDQWQYPSJ2LDrg6e53uEBkuww5immLQPj?filename=119.png",
+    "dna": "b72bbf13bb38c3353d618414f1dec52f909269e6",
+    "edition": 119,
+    "id": 118,
+    "date": 1644936180376,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_wh"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "attentive_female"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "lipstick"
+      },
+      {
+        "trait_type": "Head",
+        "value": "snail_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_armor_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #120",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmfNt8cm9vmxgPBSWn2jN8VnRPGgLoMYDsHUTgbnwcwXyy?filename=120.png",
+    "dna": "15d7e53df77c8741d342966b2f9fa4e35569a9c6",
+    "edition": 120,
+    "id": 119,
+    "date": 1644936181979,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_prieest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "grim_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards_c"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "banana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #121",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmWbb9sAqSF4TAPmu5wc59r1c2dZv77ZhWCZHmCBAeSw1M?filename=121.png",
+    "dna": "e543f5b3bc07e14ef075f314b4970f70980e3834",
+    "edition": 121,
+    "id": 120,
+    "date": 1644936183488,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "legendary_gold"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_d"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_red"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "glaces_circle"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards_c"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflec_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #122",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmWQFetGW14ReHG2isBSwEBwfQSDEYT5Tfn6UV9xvUud8q?filename=122.png",
+    "dna": "48263f23497d436b47c9948acac9c966ad0462cc",
+    "edition": 122,
+    "id": 121,
+    "date": 1644936185061,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "beaver_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_leather"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "sweet_marbles"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "china_hat"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #123",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmZFwNDLbfvG9HkSBkdPACG4mn7d6BvDP3T2xEGpBrdgUm?filename=123.png",
+    "dna": "776fbc113c1c4797079b64b32d8ade64f5f4c9ca",
+    "edition": 123,
+    "id": 122,
+    "date": 1644936186573,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "redstraight"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_armor_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "sweet_marbles"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "small_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "spoon_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_infantra_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #124",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmbQLtdqveY8SdXLJD5ow1jrWngir6k8TEkccM5vAdERWX?filename=124.png",
+    "dna": "851fdb47d733b6ea70c92a62e4ed7b76aedabc5e",
+    "edition": 124,
+    "id": 123,
+    "date": 1644936188119,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_long_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_white"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_leather"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "woman_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grin_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "shogunfan_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #125",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmZ8fuGcre73KTCHWoAGrRfSo7Qv3zEd881ZiJ6LQj7VTf?filename=125.png",
+    "dna": "60441458356e651c334ee2b5dc44b0d420360088",
+    "edition": 125,
+    "id": 124,
+    "date": 1644936189604,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_grey"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_gd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "staring_ye"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "pharao"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_rice"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflec_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #126",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmTXvPqi6adTt8SbPLTcW82Edp1fVG5mo8eveCwzUefhFM?filename=126.png",
+    "dna": "120445c369c1c4a51fcf437cc1c9118bdb52a477",
+    "edition": 126,
+    "id": 125,
+    "date": 1644936191242,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_straight_wh"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_red"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_shogun"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bushy_straight_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "omnidex_shield_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #127",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmXC6tTb8U9jKHCuM2hi6XKvR4JQTPiWaDJuXvvG57A8VY?filename=127.png",
+    "dna": "86e4cf06ee8c8b90aeab52fb957342bfc4b28da3",
+    "edition": 127,
+    "id": 126,
+    "date": 1644936192756,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_rifle"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "sweet_marbles"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "undefined"
+      },
+      {
+        "trait_type": "Head",
+        "value": "samurai_rd"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "geisha_og"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #128",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmdadodqQcPSfvSdr4HxBWkhFrSh6j2ZnCAsLCV9h1E1LA?filename=128.png",
+    "dna": "551820995f0d538aa1fe68d1871002d43bc09858",
+    "edition": 128,
+    "id": 127,
+    "date": 1644936194323,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stripes"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "samurai_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "bright_women"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "beavertooth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_rice"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "right_brush_gd"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #129",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmWku2yYQhWjtH2rrjRcJZDDnZFAths2B3ohWfL5YyKs3x?filename=129.png",
+    "dna": "c0dfd598a6df79ec3a394bc6a40ddb80f96d3b92",
+    "edition": 129,
+    "id": 128,
+    "date": 1644936195776,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "legendary_gold"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_db"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "eating"
+      },
+      {
+        "trait_type": "Head",
+        "value": "shogun_gd"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "shogun_gn"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #130",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmQTxjEMM7o4KKLEDBXbzmqYU6S2iETXQfCrc8awQHSNng?filename=130.png",
+    "dna": "a8af65835a79acb422d77414c8b15c4c70ed9133",
+    "edition": 130,
+    "id": 129,
+    "date": 1644936197325,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "curved_white"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "undefined_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "geisha"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "fan_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #131",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmZwhmGCpA7fMxMp2Yrd4459swUPSJBNQL6ygVgXAsGHTf?filename=131.png",
+    "dna": "e8bc80a52f97caf2cf70c902dc02739c72514aeb",
+    "edition": 131,
+    "id": 130,
+    "date": 1644936198661,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "redstraight"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_white"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "woman"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "angry_diamond"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_beard_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_mask_manga_gn"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_rifleb_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #132",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmXWu3PPWRJnySKuhvA967SyDfr87WSuPThJrdoC4SrLjZ?filename=132.png",
+    "dna": "b07bf529e7ef2b078289a56fa995fb7c0dbcc2af",
+    "edition": 132,
+    "id": 131,
+    "date": 1644936200328,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "curved_rd"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "v"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "omnidex"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #133",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmV2vcAQsM6JCNYt7Ci1rN2p3iEz81HeJAFWFYWFUVbmfz?filename=133.png",
+    "dna": "4f0cd68c86c5ed940ff6b52cddbcca76370d0ed0",
+    "edition": 133,
+    "id": 132,
+    "date": 1644936201988,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_straight_wh"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "geisha_og"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "woman_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mighty"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bat_geisha_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "gold_katana_gd"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #134",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmfJUEaDE2vHxY8R3nCVEfVuxZvnv1fmJYeu1BVnApuvYk?filename=134.png",
+    "dna": "c17a564467f201ef6e0d0e9575381df1bdfda85e",
+    "edition": 134,
+    "id": 133,
+    "date": 1644936203362,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "snow"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_db"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_c"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "wine"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "japan_threebeards_c"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_mask_manga_gn"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_flag_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #135",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmUStYHGhqK5z3NQqB5dx9uCoH3nohLP5zHfQU3cJL1x99?filename=135.png",
+    "dna": "c8ca4b244cb179ccf1c571e9788dc6252a55a4ff",
+    "edition": 135,
+    "id": 134,
+    "date": 1644936204788,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_rd"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "manga_b"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "small_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_flame"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_riflec_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #136",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmSXYCsGjREDF8YiqVjDDLs979NfL2pTstUHFJGu2BM2Gi?filename=136.png",
+    "dna": "6bc0065b231c0d2684733a9d9043838c20a50551",
+    "edition": 136,
+    "id": 135,
+    "date": 1644936206328,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_c"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_gd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_tired"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "undefined"
+      },
+      {
+        "trait_type": "Head",
+        "value": "geisha"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_lord_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #137",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmdWDEr4bnnYTt265zf99Kk7ty9AysRv31tASh7951qRWR?filename=137.png",
+    "dna": "58507621aa84c82022e076f6c776c599f08c5735",
+    "edition": 137,
+    "id": 136,
+    "date": 1644936207739,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "curved_white"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mega_smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_hat_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_infantra_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #138",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmRECJ2CyFeCwfK3QnEq6XNAECKJPybWmj5xiwytgzdYhG?filename=138.png",
+    "dna": "3c971f6d90267962d00e984c049b92c4d0905d06",
+    "edition": 138,
+    "id": 137,
+    "date": 1644936209343,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_white"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "megasweet"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "sadopen"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_female_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "omnidex_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #139",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmbGzxJzQP28epXZHcFh76C8vBxn27WSPJVw82N4h3S7S7?filename=139.png",
+    "dna": "9780769e433848094cb38d03db93b2599ded5050",
+    "edition": 139,
+    "id": 138,
+    "date": 1644936210846,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_darkbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "keiko_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed_women"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grumpy_beard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straight_awake_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_flag_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #140",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmZEVV5vCuHSrxPvDc7QB6TSUF4V2iLDjnsnrS4qExXE8Z?filename=140.png",
+    "dna": "7c7be31d9a7f11b102185c13a1ad8f2dcf6cc37f",
+    "edition": 140,
+    "id": 139,
+    "date": 1644936212176,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "small_bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_white"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_bg"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "closed"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bamboo_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "fan_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #141",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmNk8B6n1X96zmDzsJ9hjtgzW5Y9F9f5hotmCMp7AcJKtx?filename=141.png",
+    "dna": "c203136dd4cf9f6e448c1070ca58f94ba0e4d922",
+    "edition": 141,
+    "id": 140,
+    "date": 1644936213676,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "bubble"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curveb_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_leather"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed_women"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "v"
+      },
+      {
+        "trait_type": "Head",
+        "value": "chinese_man"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "shogun_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #142",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmRCWsmWchDDcqLJVCopDXoKyBZQzicUSEt8Wys23yw2bX?filename=142.png",
+    "dna": "9db279cda74fa24dfa05c2d68dc9b66200a62100",
+    "edition": 142,
+    "id": 141,
+    "date": 1644936215052,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_rd"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_simple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed_simple"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mega_smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_helm"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_lord_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #143",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmeizikHQdyXBHKpDg43JuBZMrBDphcsDWUMJomBkEFbsy?filename=143.png",
+    "dna": "81b966eefc6f244d6c10fe646e2e73f7d62baa22",
+    "edition": 143,
+    "id": 142,
+    "date": 1644936216585,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "long_curve_db"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_simple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "soft_smile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "sad"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_leather_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #144",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmTptCxkn1GJuSuDs6oVL6z1r5DwbF9nVdDhdPjC9qNKHu?filename=144.png",
+    "dna": "0143ff1c159a27e87c484bcc769963ac92e459dc",
+    "edition": 144,
+    "id": 143,
+    "date": 1644936218152,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "whitestraight"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "geisha_og"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "large_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "large_beavertooth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_hat_b_wh"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_lord_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #145",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmX7ckUM9BTsGhHyCwZHg8y4FXtuRNZGcfU9jMDXQsQeuY?filename=145.png",
+    "dna": "8a4bc99b8f032cb95efa8e49fad6343a0864e76f",
+    "edition": 145,
+    "id": 144,
+    "date": 1644936219705,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sprinkles"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "brownstraight_c"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_bg"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "undefined_b"
+      },
+      {
+        "trait_type": "Head",
+        "value": "sad"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "omnidex_shield_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #146",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmQj3pbktS88iL49v41Agckwk5peYbmWANmK9kBME1UUDk?filename=146.png",
+    "dna": "3345af4be0ceacd8ad11ad24e41a91c1d6c90035",
+    "edition": 146,
+    "id": 145,
+    "date": 1644936221173,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_stype_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_prieest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "simple_black"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "pharao"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bent_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "right_brush_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #147",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/Qmd48ds2S3WhzXa5sHM3SH8Ve6CJL93dTDX3phQYtk9apR?filename=147.png",
+    "dna": "415ea513273f4f31530b3bdec9ba3c4a3168376e",
+    "edition": 147,
+    "id": 146,
+    "date": 1644936222672,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "sparklesleft"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "curved_bn"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_prieest"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed_brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "vampire"
+      },
+      {
+        "trait_type": "Head",
+        "value": "bat_lb"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "omnidex"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #148",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmezLEQAThcUKj96Qq2PBkotBSsaktE1nbE5hXrsuJGjcs?filename=148.png",
+    "dna": "3766e258bd859254d8ce02aec57b81fb79d0f902",
+    "edition": 148,
+    "id": 147,
+    "date": 1644936224179,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "gold_stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_stype_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_brown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_shogun_formal"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "japan_a"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "sadopen"
+      },
+      {
+        "trait_type": "Head",
+        "value": "upanddown"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_rifled_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #149",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmYoEZHCyyREkqL6HA8jBRHgPqKMjzydi35uvUd8CJzJwF?filename=149.png",
+    "dna": "31460d2ea6764d8c900e6254cbba912573066a86",
+    "edition": 149,
+    "id": 148,
+    "date": 1644936225732,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "comon_grey"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stripes"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_gold"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_lord"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "attentive_female"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "sadopen"
+      },
+      {
+        "trait_type": "Head",
+        "value": "samurai_rd"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "katana_wh"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #150",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmcFf3xHRQ8o5jzJ5J415Y7GuKtUeyki1iDyNjS7HWPrEE?filename=150.png",
+    "dna": "b3c5e35920267ed50a3b707eb488f12177cbdfc0",
+    "edition": 150,
+    "id": 149,
+    "date": 1644936227309,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "rare_white"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "arrows"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "mega_bushy_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_man_rd"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "bright_blue_women"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "beavertooth"
+      },
+      {
+        "trait_type": "Head",
+        "value": "samuraiairs_rd"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "japan_flag_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
