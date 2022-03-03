@@ -13,6 +13,7 @@ const Pagination = ({
 	const lastPage = Math.round(totalCount / 20);
 	const pageMenuSize = lastPage > 7 ? 7 : lastPage;
 	const color = process.env.NEXT_PUBLIC_PRIMARY_COLOR || "indigo";
+	const colorClass = {`bg-${color}-400 dark:bg-${color}-400 dark:hover:bg-${color}-200 text-white hover:bg-${color}-200`}
 	const activePages = React.useMemo(
 		() =>
 			filter.page > lastPage - pageMenuSize
@@ -58,7 +59,7 @@ const Pagination = ({
 							key={`page-${page}`}
 							className={`w-10 al relative block py-2 px-1 leading-tight bg-gray-200 dark:bg-gray-600 text-gray-800 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-500 rounded cursor-pointer ml-2 flex items-center ${
 								filter.page === page
-									? `bg-${color}-400 dark:bg-${color}-400 dark:hover:bg-${color}-200 text-white hover:bg-${color}-200`
+									? colorClass
 									: ""
 							} `}
 							onClick={() => setFilter({ ...filter, page })}
