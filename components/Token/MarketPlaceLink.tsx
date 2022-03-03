@@ -15,9 +15,9 @@ const MarketPlaceLinks = ({ id }: { id: string }) => {
 					>
 						<div className="flex items-center">
 							<span className="mr-2">
-								<Image width="20px" height="20px" src="/tofuNFT.png"  alt="Tofu NFT" />
+								<Image width="18px" height="18px" src="/tofuNFT.png"  alt="Tofu NFT" />
 							</span>
-							Tofu
+							Tofu NFT
 						</div>
 					</a>
 					<a
@@ -28,9 +28,9 @@ const MarketPlaceLinks = ({ id }: { id: string }) => {
 					>
 						<div className="flex items-center">
 							<span className="mr-2">
-								<Image width="20px" height="20px" src="/areaXNFT.png" alt="AreaX NFT" />
+								<Image width="18px" height="18px" src="/areaXNFT.png" alt="AreaX NFT" />
 							</span>
-							AreaXNFT
+							AreaX NFT
 						</div>
 					</a>
 				</>
