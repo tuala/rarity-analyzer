@@ -11,7 +11,7 @@ const Header = () => {
 						<a className="flex items-center">
 							{process.env.NEXT_PUBLIC_COLLECTION_LOGO && (
 								<img
-									style={{ maxWidth: "180px", maxHeight: "100px" }}
+									style={{ maxWidth: "180px", maxHeight: "50px" }}
 									src={process.env.NEXT_PUBLIC_COLLECTION_LOGO}
 									alt={`${process.env.NEXT_PUBLIC_SITENAME}'s logo`}
 								/>
