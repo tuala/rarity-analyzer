@@ -100,47 +100,6 @@ const RarityList = ({
 				</div>
 				<div>
 					<label className="block mt-5 mb-3 ml-2 font-semibold">
-						Attributes count
-					</label>
-					<nav className="flex-1  space-y-0.5 mt-2 hidden md:flex md:flex-col">
-						{Object.keys(count).map((key) => (
-							<a
-								key={`count-${key}`}
-								className="flex items-center content-center justify-between block hover:bg-gray-100 cursor-pointer dark:hover:bg-gray-700 px-1 py-2 rounded-md transition ease-in-out duration-150 font-normal"
-								onClick={() =>
-									setFilter({
-										...filter,
-										traitCount:
-											filter.traitCount.indexOf(Number(key)) > -1
-												? filter.traitCount.filter(
-														(k: number) => k !== Number(key)
-												  )
-												: [...filter.traitCount, Number(key)],
-									})
-								}
-							>
-								<span className="flex my-2 items-center title text-sm">
-									<input
-										type="checkbox"
-										className="form-tick dark:text-blue-600 appearance-none h-5 w-5 border border-gray-300 rounded-md checked:bg-blue-600 checked:border-transparent focus:outline-none"
-										checked={filter.traitCount.find(
-											(k: number) => k === Number(key)
-										)}
-									/>
-									<span className="dark:text-gray-200 text-gray-700 ml-3">
-										{key}
-									</span>
-								</span>
-
-								<span className="text-xs text-gray-500 px-2 py-0.5 rounded-full bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-300 dark:border-gray-600">
-									{count[key]}
-								</span>
-							</a>
-						))}
-					</nav>
-				</div>
-				<div>
-					<label className="block mt-5 mb-3 ml-2 font-semibold">
 						Attributes
 					</label>
 					<nav className="flex-1 mt-2 hidden md:flex md:flex-col">
