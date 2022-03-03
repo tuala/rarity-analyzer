@@ -12,6 +12,9 @@ export default class MyDocument extends Document {
 						async
 						src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_SITE_ID}`}
 					/>
+					<link rel="preconnect" href="https://fonts.googleapis.com">
+					<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+					<link href="https://fonts.googleapis.com/css2?family=Baloo+Chettan+2:wght@400;700&family=Varela+Round&display=swap" rel="stylesheet">
 				</Head>
 				<body className="dark:bg-gray-900 bg-white dark:text-gray-200 text-black">
 					<Main />
