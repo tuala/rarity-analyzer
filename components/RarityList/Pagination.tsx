@@ -58,7 +58,7 @@ const Pagination = ({
 							key={`page-${page}`}
 							className={`w-10 al relative block py-2 px-1 leading-tight bg-gray-200 dark:bg-gray-600 text-gray-800 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-500 rounded cursor-pointer ml-2 flex items-center ${
 								filter.page === page
-									? {`bg-${color}-400 dark:bg-${color}-400 dark:hover:bg-${color}-200 text-white hover:bg-${color}-200`}
+									? `bg-${color}-400 dark:bg-${color}-400 dark:hover:bg-${color}-200 text-white hover:bg-${color}-200`
 									: ""
 							} `}
 							onClick={() => setFilter({ ...filter, page })}
