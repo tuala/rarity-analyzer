@@ -2,9 +2,9 @@
 @tailwind components;*/
 @import "tailwindcss/tailwind.css";
 
- @import 'tailwindcss/base';
-/*@import 'tailwindcss/components';  */
-@import 'tailwindcss/utilities';
+/* @import 'tailwindcss/base';
+@import 'tailwindcss/components'; 
+@import 'tailwindcss/utilities'; */
 
 .ReactModal__Body--open {
 	overflow: hidden;
