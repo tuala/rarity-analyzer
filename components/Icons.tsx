@@ -42,7 +42,6 @@ export const CloseIcon = () => (
 export const TofuIcon = () => (
     <svg 
 	    viewBox="0 0 39 36" 
-	    focusable="false" 
 	    xmlns="http://www.w3.org/2000/svg"
 	    class="my-1 mx-2"
     >
