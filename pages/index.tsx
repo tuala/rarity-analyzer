@@ -80,7 +80,7 @@ const Home: NextPage = ({ traits, count, intialTokens, meta }: any) => {
                 </div>
                 <div className="md:col-span-5  flex flex-col justify-start h-full p-8">
                   <h1 className="sm:text-2xl text-xl font-bold ">
-                    {process.env.NEXT_PUBLIC_SITENAME}
+                    {process.env.NEXT_PUBLIC_SITENAME}  { process.env.NEXT_COLLECTION_PUBLIC_NAME && (<span className="text-md">- {process.env.NEXT_COLLECTION_PUBLIC_NAME}</span>)}
                   </h1>
                   <SocialLinks />
                   <div className="prose dark:prose-dark pt-2 sm:text-base text-sm leading-thight text-gray-800 dark:text-gray-200 mt-2 md:mt-6">
