@@ -75,6 +75,7 @@ const Home: NextPage = ({ traits, count, intialTokens, meta }: any) => {
                     <img
                       alt="collection banner"
                       src={process.env.NEXT_PUBLIC_BANNER}
+			    style={{"borderRadius": "7px"}}
                     />
                   </div>
                 </div>
