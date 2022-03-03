@@ -28,7 +28,7 @@ const MarketPlaceLinks = ({ id }: { id: string }) => {
 					>
 						<div className="flex items-center">
 							<span className="mr-2">
-								<Image width="20px" height="20px" src="https://uploads-ssl.webflow.com/619c8f31911ac35b6a0691e2/61b77404bae40dfc1f0523d4_areaXNFT.png" />
+								<Image width="20px" height="20px" src="/areaXNFT.png" />
 							</span>
 							AreaXNFT
 						</div>
