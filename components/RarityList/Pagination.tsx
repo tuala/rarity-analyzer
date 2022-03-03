@@ -13,7 +13,7 @@ const Pagination = ({
 	const lastPage = Math.round(totalCount / 20);
 	const pageMenuSize = lastPage > 7 ? 7 : lastPage;
 	const color = process.env.NEXT_PUBLIC_PRIMARY_COLOR || "indigo";
-	const colorClass = {`bg-${color}-400 dark:bg-${color}-400 dark:hover:bg-${color}-200 text-white hover:bg-${color}-200`}
+	const colorClass = `bg-${color}-400 dark:bg-${color}-400 dark:hover:bg-${color}-200 text-white hover:bg-${color}-200`
 	const activePages = React.useMemo(
 		() =>
 			filter.page > lastPage - pageMenuSize
