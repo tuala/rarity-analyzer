@@ -36,7 +36,7 @@ const Header = () => {
 							Website
 						</a>
 						<a
-							className=" hidden lg:block inline-flex justify-center items-center px-4 py-2 rounded-md bg-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "blue"}-400 text-white font-medium transition-all hover:bg-amber-200 dark:hover:bg-bg-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "blue"}-200 ease-in-out duration-200"
+							className=" hidden lg:block inline-flex justify-center items-center px-4 py-2 rounded-md bg-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "purple"}-400 text-white font-medium transition-all hover:bg-amber-200 dark:hover:bg-bg-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "blue"}-200 ease-in-out duration-200"
 							href={process.env.NEXT_PUBLIC_TOFU}
 							target="_blank"
 							rel="noopener noreferrer nofollow"
@@ -44,7 +44,7 @@ const Header = () => {
 							View on Tofu NFT
 						</a>
 						<a
-							className=" hidden lg:block inline-flex justify-center items-center px-4 py-2 rounded-md bg-bg-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "blue"}-400 text-white font-medium transition-all hover:bg-amber-200 dark:hover:bg-bg-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "blue"}-200 ease-in-out duration-200"
+							className=" hidden lg:block inline-flex justify-center items-center px-4 py-2 rounded-md bg-bg-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "purple"}-400 text-white font-medium transition-all hover:bg-amber-200 dark:hover:bg-bg-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "blue"}-200 ease-in-out duration-200"
 							href={process.env.NEXT_PUBLIC_AREAX}
 							target="_blank"
 							rel="noopener noreferrer nofollow"
