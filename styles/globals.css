@@ -22,6 +22,9 @@ h1, h2, h3, h4 {
 .bg-amber-200 {
   background-color: #f5b660;
 }
+.text-amber-200 {
+  color: #f5b660;
+}
 .bg-amber-400 {
   background-color: #e7aa57;
 }
