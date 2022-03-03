@@ -156,7 +156,7 @@ const RarityList = ({
 														)}
 													/>
 													<span className="dark:text-gray-200 text-gray-700 ml-3">
-														{valueKey[0].toUpperCase() + valueKey.replace('/_/g', ' ').substring(1)}
+														{valueKey[0].toUpperCase() + valueKey.replace('/\_/gi', ' ').substring(1)}
 													</span>
 												</span>
 												<span className="text-xs font-medium text-gray-500 px-2 py-0.5 rounded-full bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-300 dark:border-gray-600">
