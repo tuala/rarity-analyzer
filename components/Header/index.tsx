@@ -3,6 +3,7 @@ import Link from "next/link";
 import DarkMode from "../DarkMode";
 
 const Header = () => {
+	const color = process.env.NEXT_PUBLIC_PRIMARY_COLOR || "indigo";
 	return (
 		<header className="h-16 px-5 py-5 dark:bg-gray-900 border-b border-gray-100 dark:border-gray-800 flex items-center justify-between print:hidden dark:text-gray-100">
 			<div className="flex items-center justify-between w-full max-w-screen-xl mx-auto space-x-4">
@@ -36,7 +37,7 @@ const Header = () => {
 							Website
 						</a>
 						<a
-							className=" hidden lg:block inline-flex justify-center items-center px-4 py-2 rounded-md bg-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "indigo"}-400 text-white font-medium transition-all hover:bg-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "indigo"}-200 dark:hover:bg-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "indigo"}-200 ease-in-out duration-200"
+							className=" hidden lg:block inline-flex justify-center items-center px-4 py-2 rounded-md bg-{color}-400 text-white font-medium transition-all hover:bg-{color}-200 dark:hover:bg-{color}-200 ease-in-out duration-200"
 							href={process.env.NEXT_PUBLIC_TOFU}
 							target="_blank"
 							rel="noopener noreferrer nofollow"
@@ -44,7 +45,7 @@ const Header = () => {
 							View on Tofu NFT
 						</a>
 						<a
-							className=" hidden lg:block inline-flex justify-center items-center px-4 py-2 rounded-md bg-bg-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "indigo"}-400 text-white font-medium transition-all hover:bg-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "indigo"}-200 dark:hover:bg-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "indigo"}-200 ease-in-out duration-200"
+							className=" hidden lg:block inline-flex justify-center items-center px-4 py-2 rounded-md bg-bg-{color}-400 text-white font-medium transition-all hover:bg-{color}-200 dark:hover:bg-{color}-200 ease-in-out duration-200"
 							href={process.env.NEXT_PUBLIC_AREAX}
 							target="_blank"
 							rel="noopener noreferrer nofollow"
