@@ -19,7 +19,7 @@ const Header = () => {
 							{!process.env.NEXT_PUBLIC_COLLECTION_LOGO && (
 								<span className="sm:inline-block hidden text-lg font-semibold dark:text-gray-200">
 									{process.env.NEXT_PUBLIC_SITENAME || "site name"} <br />
-									<small class="text-md">{process.env.NEXT_COLLECTION_NAME}</small>
+									<small className="text-md">{process.env.NEXT_COLLECTION_NAME}</small>
 								</span>
 							)}
 						</a>
