@@ -56,7 +56,7 @@ const Token = ({ token, traits, meta, isPage, close }: any) => {
                 style={{ maxHeight: isPage ? 'auto' : 'calc(100vh - 88px)' }}
               >
                 <h3 className="uppercase text-sm font-semibold text-gray-500 tracking-normal leading-tighter mt-0">
-                  {process.env.NEXT_PUBLIC_SITENAME} {process.env.NEXT_PUBLIC_SITENAME && (<span className="font-normal">- {process.env.NEXT_PUBLIC_COLLECTION_NAME}</span>)}}
+                  {process.env.NEXT_PUBLIC_SITENAME} {process.env.NEXT_PUBLIC_SITENAME && (<span className="font-normal">- {process.env.NEXT_PUBLIC_COLLECTION_NAME}</span>)}
                 </h3>
                 <div className="hover:text-blue-600 dark:hover:text-blue-300">
                   <h3 className="text-xl font-bold tracking-tight leading-tighter mt-1">
