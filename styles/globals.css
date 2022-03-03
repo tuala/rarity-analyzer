@@ -19,6 +19,18 @@ body {
 h1, h2, h3, h4 {
 	font-family: "Baloo Chettan 2"	
 }
+.bg-indigo-200 {
+  background-color: #be8fff;
+}
+.text-indigo-200 {
+  color: #be8fff;
+}
+.bg-indigo-400 {
+  background-color: #a56ef1;
+}
+.text-indigo-400 {
+  color: #a56ef1;
+}
 .bg-amber-200 {
   background-color: #f5b660;
 }
