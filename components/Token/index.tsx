@@ -59,7 +59,7 @@ const Token = ({ token, traits, meta, isPage, close }: any) => {
                   {process.env.NEXT_PUBLIC_SITENAME} {process.env.NEXT_PUBLIC_SITENAME && (<span className="font-normal">- {process.env.NEXT_PUBLIC_COLLECTION_NAME}</span>)}
                 </h3>
                 <div className="hover:text-blue-600 dark:hover:text-blue-300">
-                  <h3 className="text-xl font-bold tracking-tight leading-tighter mt-1">
+                  <h3 className="text-xl font-bold tracking-tight leading-tighter mt-2">
                     {token.name}
                   </h3>
                 </div>
