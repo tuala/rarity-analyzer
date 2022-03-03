@@ -106,7 +106,7 @@ const Token = ({ token, traits, meta, isPage, close }: any) => {
                             <div className="uppercase text-sm font-bold text-gray-400 dark:text-gray-200">
                               {trait.trait_type}
                             </div>
-                            <div className="text-sm font-medium text-amber-400 dark:text-gray-300">
+                            <div className="text-sm font-medium text-{process.env.NEXT_PUBLIC_PRIMARY_COLOR || "indigo"}-400 dark:text-gray-300">
                               +{trait.rarity_score}
                             </div>
                           </div>
