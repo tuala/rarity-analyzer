@@ -71,7 +71,7 @@ const Home: NextPage = ({ traits, count, intialTokens, meta }: any) => {
                   className="md:col-span-2 flex flex-col items-center justify-center h-full relative ml-2"
                   style={{ minHeight: '240px' }}
                 >
-                  <div className="block overflow-hidden absolute m-0 md:w-40 sm:w-full">
+                  <div className="block overflow-hidden m-0 md:w-40 sm:w-full">
                     <img
                       alt="collection banner"
                       src={process.env.NEXT_PUBLIC_BANNER}
