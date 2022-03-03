@@ -13,7 +13,12 @@
 	width: 100%;
 	height: 100%;
 }
-
+body {
+	font-family: "Varela Round"	
+}
+h1, h2, h3, h4 {
+	font-family: "Baloo Chettan 2"	
+}
 .bg-amber-200 {
   background-color: #f3b766;
 }
