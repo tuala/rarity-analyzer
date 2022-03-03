@@ -112,7 +112,7 @@ const RarityList = ({
 									onClick={() =>
 										setFilterAccordion({
 											...filterAccordion,
-											[key]: !filterAccordion[key],
+											[key]: filterAccordion[key],
 										})
 									}
 								>
