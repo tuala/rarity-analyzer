@@ -27,7 +27,7 @@ const SocialLinks = () => {
               href={process.env.NEXT_PUBLIC_DISCORD}
               className="text-gray-500 hover:text-gray-500"
               target="_blank"
-              rel="noopener nofollow"
+              rel="noopener nofollow noreferrer"
             >
               <span className="sr-only">Discord</span>
               <DiscordIcon />
@@ -40,7 +40,7 @@ const SocialLinks = () => {
               href={process.env.NEXT_PUBLIC_TELEGRAM}
               className="text-gray-500 hover:text-gray-500"
               target="_blank"
-              rel="noopener nofollow"
+              rel="noopener nofollow noreferrer"
             >
               <span className="sr-only">Telegram</span>
               <img width="20px" src="/telegram.png" />
@@ -53,7 +53,7 @@ const SocialLinks = () => {
               href={process.env.NEXT_PUBLIC_TWITTER}
               className="text-gray-500 hover:text-gray-500"
               target="_blank"
-              rel="noopener nofollow"
+              rel="noopener nofollow noreferrer"
             >
               <span className="sr-only">Twitter</span>
               <TwitterIcon />
@@ -66,7 +66,7 @@ const SocialLinks = () => {
               href={process.env.NEXT_PUBLIC_INSTAGRAM}
               className="text-gray-500 hover:text-gray-500"
               target="_blank"
-              rel="noopener nofollow"
+              rel="noopener nofollow noreferrer"
             >
               <span className="sr-only">Instagram</span>
               <InstagramIcon />
