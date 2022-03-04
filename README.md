@@ -101,11 +101,6 @@ Thanks for showing interest in contributing to Rarity analyzer.
 ## Support
 
 <div>
-  <a href="https://punkscape.xyz">
-    <img src="https://punkscape.xyz/assets/logo.827c0d7f.png" alt="Powered by punkscape" width="240" height="40"/>
-  </a>
-</div>
-<div>
-
-<p>Thanks to PunkScape Community for this initiative.</p>
+    <p>Adapted with love for Telos EVM by the <a href="https://www.tsquirrel.io">TSquirrels</a>.</p>
+    <p>Thanks to the <a href="https://punkscape.xyz">PunkScape Community</a> for this initiative.</p>
 </div>
