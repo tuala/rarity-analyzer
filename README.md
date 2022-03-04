@@ -26,9 +26,8 @@
 Rarity Analyzer from the [PunkScapes](https://punkscape.com/) community is an open source solution for generating the rarity site and a discord bot of your collections on ERC-721 standard.
 
 
-### Demo rarity sites generated with this project:
-- [OneDayPunks Collection Rarity](https://rarity-punkscape.vercel.app/)
-- [The Seven Collection Rarity](https://rarity-seven.vercel.app/)
+### Rarity sites generated on Telos EVM with this project:
+- [TSquirrel - Return of the Samurais Collection](https://rarity.tsquirrel.io/)
 
 
 ## How do I generate rarity for my collection?
