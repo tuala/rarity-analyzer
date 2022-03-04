@@ -66,6 +66,7 @@ h1, h2, h3, h4 {
 .text-amber-400 {
   color: #e7aa57;
 }
+
 .description a {
 	color: rgba(37, 99, 235, 1);
 }
@@ -111,4 +112,8 @@ h1, h2, h3, h4 {
 		transform: translateY(0px);
 		opacity: 1;
 	}
+}
+@media screen and (max-width: 767px) {
+    padding: 0;	  
+  }
 }
