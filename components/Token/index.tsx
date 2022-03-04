@@ -12,8 +12,7 @@ const Token = ({ token, traits, meta, isPage, close }: any) => {
         isPage ? 'overflow-auto max-w-screen-xl' : 'max-w-screen-lg'
       }`}
       style={{
-        height: isPage ? 'auto' : 'calc(100vh - 40px)',
-        margin: isPage ? '0' : '0 40px'
+        height: isPage ? 'auto' : 'calc(100vh - 40px)'
       }}
     >
       {!isPage && (
