@@ -43,9 +43,6 @@ Before you generate your rarity site, Ready your collection data (ERC-721 format
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone)
 
-**NOTE:** A [comprehensive guide](./SETUP.md) about will be added soon.
-
-
 ## Setup the discord bot
 
 ### Configure your bot to run application commands (`/rarity`) 
