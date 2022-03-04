@@ -43,7 +43,7 @@ const SocialLinks = () => {
               rel="noopener nofollow noreferrer"
             >
               <span className="sr-only">Telegram</span>
-              <img width="20px" src="/telegram.png" />
+              <img width="20px" src="/telegram.png" alt="" />
             </a>
           </li>
         )}
