@@ -5,6 +5,7 @@ import {
   TwitterIcon,
   WebsiteLinkIcon
 } from '../Icons';
+import Image from "next/image";
 
 const SocialLinks = () => {
   return (
