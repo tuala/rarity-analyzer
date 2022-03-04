@@ -7,7 +7,7 @@ export default class MyDocument extends Document {
 			<Html lang="en">
 				<Head>
 					<link rel="shortcut icon" href="/favicon.ico" />
-					<title>${process.env.NEXT_PUBLIC_SITENAME} - Rarity</title>
+					<title>{process.env.NEXT_PUBLIC_SITENAME} - Rarity</title>
 					<script
 						async
 						src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_SITE_ID}`}
