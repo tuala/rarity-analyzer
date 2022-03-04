@@ -33,7 +33,7 @@ const Token = ({ token, traits, meta, isPage, close }: any) => {
               !isPage ? 'animated-fadeInUp' : ''
             } `}
           >
-            <div className="bg-transparent dark:text-gray-200 shadow-sm rounded-lg overflow-hidden px-2 h-full md:col-span-2 border-none flex flex-col py-0">
+            <div id="tokenImage" className="bg-transparent dark:text-gray-200 shadow-sm rounded-lg overflow-hidden px-2 h-full md:col-span-2 border-none flex flex-col py-0">
               <div>
                 {/* <h2 className="uppercase font-semibold text-xs text-gray-700 dark:text-gray-200">
 									Rarity Rank #{token.rank}
