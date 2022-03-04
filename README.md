@@ -38,8 +38,8 @@ Before you generate your rarity site, Ready your collection data (ERC-721 format
 ### Steps to deploy your rarity site
 1. Fork this project (make it private if using bots)
 2. Clone it locally or start editing online in github (Press `dot` / change url from `github.com` to `github.dev`) without leaving your browser.
-3. Update collection data replace the sample file located at `data/collection.json`
-4. Update collection configuration, Create `.env.production` copy the keys from `.env.sample` and fill in the values
+3. Update the collection data by replacing the sample file located at `data/collection.json`
+4. Update the configuration, create an `.env.production` fill and copy the keys from `.env.sample`, then fill in the values
 5. Press `Deploy` below and select the repo or if local run `npx vercel --prod`.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone)
