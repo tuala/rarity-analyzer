@@ -46,5 +46,53 @@
       }
     ],
     "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "T-Squirrel NFT #2",
+    "description": "Return of the Samurai T-Squirrels",
+    "image": "https://api.dstor.cloud/ipfs/QmNYd7DUWcStQKeqDw4e61ZgBXQUfmjbRkoFroiTkkaDVp?filename=2.png",
+    "dna": "f4eae16cc2519dc66a342a46902fe52e59803ac4",
+    "edition": 2,
+    "id": 1,
+    "date": 1644936007836,
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "common"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "bushy_straight_lb"
+      },
+      {
+        "trait_type": "Body",
+        "value": "plain_lightbrown"
+      },
+      {
+        "trait_type": "Dress",
+        "value": "japan_infantry_d"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed_simple"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "grin_sm"
+      },
+      {
+        "trait_type": "Head",
+        "value": "japan_fem_warrior"
+      },
+      {
+        "trait_type": "Arms",
+        "value": "shogunfan_lb"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
   }
 ]
