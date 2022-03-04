@@ -42,7 +42,7 @@ const Token = ({ token, traits, meta, isPage, close }: any) => {
                   src={getTokenImageLink(token.image)}
                   alt={token.name}
                   style={{
-                    width: '100%', minWidth: '0', maxWidth: '0'
+                    width: '100%', minWidth: '0', maxWidth: '100%'
                   }}
                   className="rounded-lg bg-black border-gray-800 dark:border-gray-800 border"
                 />
