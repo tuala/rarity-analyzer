@@ -33,7 +33,7 @@ Rarity Analyzer from the [PunkScapes](https://punkscape.com/) community is an op
 
 ## How do I generate rarity for my collection?
 
-Before you generate your rarity site, Ready your collection data (ERC-721 format) in one JSON array, [like so](./data/collection), then fill in a few configuration values by copying our [Sample ENV](./env.sample).
+Before you generate your rarity site, Ready your collection data (ERC-721 format) in one JSON array, [like so](./data/collection), then fill in a few configuration values by copying our [Sample ENV](./env.sample) to ./env.production. Read below for detailled steps.
 
 ### Steps to deploy your rarity site
 1. Fork this project (make it private if using bots)
