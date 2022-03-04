@@ -5,7 +5,6 @@ import {
   TwitterIcon,
   WebsiteLinkIcon
 } from '../Icons';
-import Image from "next/image";
 
 const SocialLinks = () => {
   return (
@@ -40,7 +39,7 @@ const SocialLinks = () => {
               className="text-gray-500 hover:text-gray-500"
             >
               <span className="sr-only">Telegram</span>
-              <Image src="/telegram.png" />
+              <img width="20px" src="/telegram.png" />
             </a>
           </li>
         )}
